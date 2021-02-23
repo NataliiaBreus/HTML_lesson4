@@ -1,0 +1,11 @@
+.wrapper{
+    border: 5px solid red;
+    padding: 10px;
+    height: 500px;
+    background-color: blueviolet;
+    background-image: url("./images/sun.jpg");
+    background-repeat: no-repeat;
+    background-size: 80% cover;
+    background-position: center;
+
+    
